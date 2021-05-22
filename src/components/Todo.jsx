@@ -29,7 +29,7 @@ function Todo({ todos, completeTodo, removeTodo, updateTodo }) {
     }
 
     return (
-        <>
+        <div className="todo-container">
             {
                 todos.map(todo => (
 
@@ -54,7 +54,7 @@ function Todo({ todos, completeTodo, removeTodo, updateTodo }) {
 
                 ))
             }
-        </>
+        </div>
     )
 }
 
