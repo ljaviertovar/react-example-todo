@@ -7,7 +7,7 @@ A simple todo list
 ## Technologies
 
 ### :small_blue_diamond: Front-end
-:heavy_check_mark: React js\
+:heavy_check_mark: React js
 
 <hr>
 
