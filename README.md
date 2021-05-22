@@ -2,7 +2,7 @@
 
 A simple todo list
 
-![image](https://user-images.githubusercontent.com/34925280/119210074-f9cc8b00-ba6f-11eb-9b62-13fb228870b7.png)
+![image](https://user-images.githubusercontent.com/34925280/119210330-3947a700-ba71-11eb-8216-f25eb1fd8e48.png)
 
 ## Technologies
 
